@@ -1,3 +1,3 @@
-<b>My First Impression<b>
-<hr>
+<b>My First Impression</b>
+<br>
 Author-Dhruv Sinha
